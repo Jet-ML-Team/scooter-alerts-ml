@@ -15,10 +15,12 @@ google-cloud-storage
 graphviz
 huggingface-hub
 Jinja2
+jupyter
 jupyterlab
 lightgbm
 matplotlib
 nltk
+notebook
 numpy
 optuna
 pandas
